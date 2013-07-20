@@ -4,7 +4,7 @@ This is a simple example of comunication between client and server processes in 
 
 ## Erlang installation
 
-To install erlang on your machine go the this [link](http://joearms.github.io/installing.html]) and choose your correct distribution
+To install erlang on your machine click [here](http://joearms.github.io/installing.html]) and choose your correct distribution
 
 ## Running the code
 
